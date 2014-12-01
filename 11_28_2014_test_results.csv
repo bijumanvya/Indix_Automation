@@ -1,0 +1,8 @@
+Test Step,Actual,Expected,Status
+Log into Amazon,Success,Success,Pass
+Selected product's title:Bose SoundLink Mini Bluetooth Speaker,Success,Success,Pass
+Selected product's URL:http://www.amazon.com/Bose-SoundLink-Mini-Bluetooth-Speaker/dp/B00D5Q75RC/ref=sr_1_2?ie=UTF8&qid=1417190146&sr=8-2&keywords=bose,Success,Success,Pass
+Logg into gmail,success,success, Pass
+Email from amazon,wants you to see this item at Amazon.com,Biju Mani wants you to see this item at Amazon.com, pass
+Product verified in email with name,Exp:Bose SoundLink Mini Bluetooth Speaker, Act:Bose SoundLink Mini Bluetooth Speaker, pass
+Product verified in email with link,Exp:http://www.amazon.com/Bose-SoundLink-Mini-Bluetooth-Speaker/dp/B00D5Q75RC/, Act:http://www.amazon.com/Bose-SoundLink-Mini-Bluetooth-Speaker/dp/B00D5Q75RC/, pass
